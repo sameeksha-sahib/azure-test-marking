@@ -1,0 +1,12 @@
+{
+  "ServerUrl": "https://devops.jio.com/JioFinancialServices/New%20Commerce%20M-POS/_apis",
+  "PlanID" : "",
+  "PlanName": "Test Automation Plan From CI",
+  "PlanIterationPath": "New Commerce M-POS\\JPM Automation",
+  "PlanAreaPath": "New Commerce M-POS\\JPM Automation",
+  "RootSuiteID" : "",
+  "SuiteID" : "",
+  "SuiteName": "Playstore",
+  "RunID": "",
+  "RunName" : "Automation run"
+}
